@@ -1,4 +1,4 @@
-# Portafolio Seguridad Informatica en entorno Windows Server y Linux
+# Portafolio Seguridad Informatica en entorno Windows Server y Linux 
 ## 🖥️ Servicios de Infraestructura en Windows Server
 
 Este repositorio contiene documentación, configuraciones y ejemplos prácticos relacionados con la administración de servicios de infraestructura en **Windows Server**, incluyendo WSUS, Active Directory, DHCP, DNS, IIS y políticas de seguridad.
