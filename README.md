@@ -9,7 +9,7 @@ Este repositorio contiene documentación, configuraciones y ejemplos prácticos 
 - Scripts de configuración (PowerShell)
 - Archivos de políticas de grupo (GPO)
 - Diagramas de red y roles de servidor
-
+ 
 ### 🧩 Temas cubiertos
 
 - **WSUS (Windows Server Update Services)**: Sincronización, aprobación de actualizaciones y estadísticas del servidor.
